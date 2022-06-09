@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{3AEBE93D-7C26-41BC-B405-62E1A084D730}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MovieAppCore FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MovieAppInfrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieAppInfrastructure/Services/CastService.cs">
+    <Files>
+      <File FileName="MovieAppInfrastructure/Services/GenreService.cs" Line="12" Column="2" />
+      <File FileName="MovieAppInfrastructure/Services/AdminService.cs" Line="6" Column="42" />
+      <File FileName="MovieAppInfrastructure/Services/CastService.cs" Line="8" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieApp" expanded="True">
+            <Node name="MovieAppCore" expanded="True">
+              <Node name="ConnectedServicesFolder" selected="True" />
+              <Node name="Contracts" expanded="True">
+                <Node name="Repository" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="MovieAppInfrastructure" expanded="True">
+              <Node name="Repository" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieAppMVC PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
